@@ -1,4 +1,4 @@
-<h2 align="centre">Kyy Music Player</h2>
+<h2 align="centre">Kyy preet music</h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/c12a382c9e74670f55a37.jpg">
