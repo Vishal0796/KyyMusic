@@ -1,7 +1,7 @@
 <h2 align="centre">Kyy Music Player</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/37e7781a4a5d5875c8cb3.jpg">
+  <img src="https://telegra.ph/file/c12a382c9e74670f55a37.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
